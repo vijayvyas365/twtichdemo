@@ -6,12 +6,25 @@
 <blockquote><p>he second/streamer page shows an embedded livestream, chat and list of 10 most recent events for your favorite streamer. This page doesn’t poll the backend and rather leverages web sockets and relevant Twitch API.</p></blockquote>
 
 
-<h1>Demo</h1>
+<h2>Demo</h2>
 <p>Demo URL: http://18.218.204.8/twitch/</p>
 <p>Repository URL: https://github.com/vijayvyas365/twtichdemo</p>
 
+<h2>Server Requirments</h2>
 
-<h1>Questions</h1>
+<ul>
+    <li>PHP 7.2.X or Above</li>
+    <li>Apache 2.4.x or Above</li>
+</ul>
+
+<h2>Library</h2>
+<ul>
+    <li>Laravel 5.8</li>
+    <li>Twitch API</li>
+</ul>
+
+
+<h2>Questions</h2>
 
 <blockquote><p>How would you deploy the above on AWS? (ideally a rough architecture diagram will help)</p></blockquote>
 
