@@ -7,8 +7,8 @@
 
 
 <h1>Demo</h1>
-Demo URL: http://18.218.204.8/twitch/
-Repository URL: https://github.com/vijayvyas365/twtichdemo
+<p>Demo URL: http://18.218.204.8/twitch/</p>
+<p>Repository URL: https://github.com/vijayvyas365/twtichdemo</p>
 
 
 
