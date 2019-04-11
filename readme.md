@@ -7,7 +7,7 @@ As per the requirement, you just have to log in with your twitch account. After 
 
 <blockquote><p>he second/streamer page shows an embedded livestream, chat and list of 10 most recent events for your favorite streamer. This page doesn’t poll the backend and rather leverages web sockets and relevant Twitch API.</p></blockquote>
 
-On this page, you can able to see embedded live stream, chat and recents events of favorite streamer. 
+On this page, you can able to see embedded live stream, chat and recents events of favorite streamer. I am not storing this events to database.so,you have to wait for some events trigger like update profile, following user etc.
 
 <h2>Demo</h2>
 <p>Demo URL: http://18.218.204.8/twitch/</p>
